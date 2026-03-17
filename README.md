@@ -3,8 +3,8 @@
 Working through all HDLBits problems as part of learning RTL design.
 
 ## Progress
-- [x] Getting Started (2/2)
-- [x] Verilog Language (46/46)
+- [ ] Getting Started (2/2)
+- [ ] Verilog Language (46/46)
 - [ ] Circuits — Combinational (12/41, in progress)
 - [ ] Circuits — Sequential
 - [ ] Building Larger Circuits
